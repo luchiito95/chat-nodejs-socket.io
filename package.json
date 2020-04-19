@@ -1,0 +1,10 @@
+{
+  "name": "socket-chat",
+  "version": "0.0.1",
+  "description": "socket para realizar un chat virtual",
+  "dependencies": {
+    "express": "^4.15.2",
+    "npm-git-install": "^0.3.0",
+    "socket.io": "^2.3.0"
+  }
+}
